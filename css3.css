@@ -1,0 +1,60 @@
+
+body{
+  font-family:'Arial Narrow', sans-serif;
+  font-weight:350;
+  background-color: lightgray;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h2{
+  font-size:"40px";
+  color:#4FC8DF;
+  font-family:'Optima', serif;
+  text-align:center;
+}
+
+div{
+  display:block;
+}
+
+h4
+{
+color:#4D85D8;
+font-size:"24px";
+font-style:oblique;
+}
+
+h3{
+color:#BA1BE1;
+font-size:"24px";
+font-style:italic;
+font-family:"Didot", serif;
+}
+
+table,tr,td{
+			border-collapse: collapse;
+			color: navy;
+			border: 2px navy solid;
+			text-align: center;
+
+}
+
+fieldset{
+		border-radius:20px;
+		margin:30px;
+		width: 700px;
+    border:3px solid;
+    border-color:white;
+  }
+
+td{
+  background-color:#1B74E1
+}
+
+.img1{
+  height:150px;
+  width:150px;
+}
